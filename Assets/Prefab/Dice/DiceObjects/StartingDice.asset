@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1704274780777b64f9df66ab03dffa50, type: 3}
+  m_Name: StartingDice
+  m_EditorClassIdentifier: 
+  diceFacesSprite:
+  - {fileID: 21300000, guid: d7becad2e23ddae4bad681b5191935f1, type: 3}
+  - {fileID: 21300000, guid: f22554c98b3f0a049b1e73dae98f55ce, type: 3}
+  - {fileID: 21300000, guid: 17335043a3e17204c945ddde9d7bfbce, type: 3}
+  - {fileID: 21300000, guid: 8abdd2008cf553b40864fadd4a30f3f3, type: 3}
+  - {fileID: 21300000, guid: cb3ecd0dd8907b6468079064504fcc5c, type: 3}
+  - {fileID: 21300000, guid: 3fff70a76e99e404aafe2c3ca3d29e7d, type: 3}
+  diceColor: 8
+  diceValues: 000000000700000003000000000000000500000000000000
